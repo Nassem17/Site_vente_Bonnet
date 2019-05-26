@@ -1,0 +1,323 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background: #181818;
+  display: block;
+  height: 150px;
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+.navbar {
+float: left;
+  width: 100%;
+  margin-top: 7%;
+}
+
+.linavbar{
+display: inline-block;
+margin-left: 12%;
+font-family: Karla;
+font-weight: 100;
+font-size: 1em;
+color: #33333;
+
+
+}
+
+a:hover{
+color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
+
+
+
+
+
+
+
+/* .formulaire {
+  margin-top:100px;
+  border: 1px solid #333333;
+  border-top: none;
+ text-align: center;
+ width: 80%;
+ margin-left: 10%;
+ margin-right: 10%;
+} */
+
+.formulaire {
+  display: block;
+  width: 60%;
+  padding: 0;
+  margin: 0 auto;
+  height: auto;
+  text-align:center;
+}
+
+.box_black {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 100%;
+  height: 80px;
+  background: black;
+}
+
+form {
+  border: 1px solid black;
+  padding: 5%;
+}
+
+.bloc_noir{
+  border: 1px solid #333333;
+  /* padding-top: 400px; */
+  background-color: #333333;
+  margin-top: 50px;
+  padding-bottom:40px;
+
+} */
+
+.bloc_blanc{
+    width:1100px;
+    /* padding-left: 200px; */
+     margin-left: 100px;
+     margin-right: 70px;
+     padding-bottom:15px;
+
+   background-color: white;
+
+}
+
+
+.ou {
+font-family: karla;
+text-align:center;
+
+}
+
+.nc {
+  font-family: karla;
+  font-size:1.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+
+  float: left;
+
+  background: #181818;
+
+  height: 170px;
+
+  width: 100%;
+
+  margin-top: 30px;
+
+
+}
+
+
+
+.reseaux_sociaux {
+
+  float: left;
+
+  height: 100%;
+
+  margin-right: 2%;
+
+  width: 20%;
+
+}
+
+
+
+.reseaux {
+
+  text-align: center;
+
+  color: white;
+
+  font-weight: 600;
+
+  font-size: 0.9em;
+
+  margin-top: 10%;
+
+}
+
+
+
+.img_facebook {
+
+  float: left;
+
+  margin-left: 25%;
+
+}
+
+
+
+.img_twitter {
+
+  float: left;
+
+  margin-left: 5%;
+
+}
+
+
+
+.img_instagram {
+
+  float: left;
+
+  margin-left: 5%;
+
+}
+
+
+
+.avis_legal {
+
+  float: left;
+
+  height: 100%;
+
+  margin-right: 2%;
+
+  width: 30%;
+
+}
+
+
+
+.lifooter {
+
+  list-style: none;
+
+  color: white;
+
+  font-weight: 600;
+
+  font-size: 0.9em;
+
+  line-height: 2em;
+
+  margin-left: 15%;
+
+}
+
+
+
+.afooter {
+
+  color: white;
+
+}
+
+
+
+.newsletter {
+
+  float: left;
+
+  height: 100%;
+
+  margin-right: 2%;
+
+  margin-left: 2%;
+
+  width: 40%;
+
+}
+
+
+
+.txtnewsletter {
+
+  color: white;
+
+  font-weight: 600;
+
+  font-size: 0.9em;
+
+  text-align: center;
+
+  margin-top: 25px;
+
+  height: 5px;
+
+}
+
+
+
+.mail {
+
+  float: left;
+
+  margin-left: 4%;
+
+  margin-top: 3%;
+
+}
+
+
+
+.inscrire {
+
+  float: left;
+
+  margin-left: 3%;
+
+  margin-top: 3%;
+
+}
+
+
+
+.copyright {
+
+  clear: both;
+
+  font-weight: 500;
+
+  font-size: 0.6em;
+
+  color: white;
+
+  margin-left: 4%;
+
+}

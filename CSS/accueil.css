@@ -1,0 +1,345 @@
+.header {
+  /* position:static;
+  background-color: black;
+  padding-top:12%; */
+    float: left;
+  background: #181818;
+  height: 150px;
+  width: 105%;
+  margin-bottom: -50%;
+  /* padding-right: 10%; */
+  /* margin-right: 50%; */
+  margin-left: -2%;
+
+}
+
+
+.logo {
+  margin-right: 20%;
+}
+
+
+
+.navbar {
+  float: left;
+  width: 200%;
+  margin-top: 7%;
+
+}
+
+.ulnavbar{
+ margin-bottom: 70px;
+
+}
+
+.linavbar{
+display: inline-block;
+margin-left: 5.5%;
+font-family: Karla;
+font-weight: 100;
+font-size: 1em;
+color: #33333;
+margin-bottom: 20%;
+
+
+}
+
+a:hover{
+color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
+
+
+
+
+.famille {
+
+  margin-top:-53%;
+  width:127%;
+  padding-bottom:100%;
+  padding-right:20%;
+  margin-right: 20%;
+}
+
+.bloc_1 {
+
+  margin-top: 0%;
+  width:80%;
+  height:20%;
+  /* padding-bottom:20%; */
+}
+
+
+
+.famille_deux {
+
+padding-top:-20%;
+margin-top: -80.5%;
+float:left;
+
+}
+
+
+.p_un{
+font-weight: bold;
+text-align: justify;
+padding-right: -20%;
+}
+
+.texte_un {
+font-family: karla;
+text-align: justify;
+color:#181818;
+width:45%;
+margin-left: 52%;
+margin-top:-80%;
+font-size: 1.4em;
+}
+
+
+
+
+.bloc_2 {
+float:left;
+margin-right: 20%;
+  margin-top: 5%;
+}
+
+.texte_ski {
+  font-size: 1.2em;
+  margin-top: -20%;
+
+}
+
+
+.bloc_3 {
+  float:left;
+  margin-top:5%;
+  margin-left:-14%;
+}
+
+.texte_ski2 {
+  font-size:1em;
+  margin-top:-20%;
+  margin-left:-1%;
+  font-family: karla;
+
+}
+
+.bloc_4 {
+  float:left;
+  margin-top: 5%;
+  margin-left:5%;
+}
+
+
+.dernier {
+
+  margin-top:-19%;
+  font-size:1em;
+  text-align:center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+
+  float: left;
+
+  background: #181818;
+
+  height: 150px;
+
+  width: 100%;
+
+  margin-top: 30px;
+
+}
+
+
+
+.reseaux_sociaux {
+
+  float: left;
+
+  height: 100%;
+
+  margin-right: 2%;
+
+  width: 20%;
+
+}
+
+
+
+.reseaux {
+
+  text-align: center;
+
+  color: white;
+
+  font-weight: 600;
+
+  font-size: 0.9em;
+
+  margin-top: 10%;
+
+}
+
+
+
+.img_facebook {
+
+  float: left;
+
+  margin-left: 25%;
+
+}
+
+
+
+.img_twitter {
+
+  float: left;
+
+  margin-left: 5%;
+
+}
+
+
+
+.img_instagram {
+
+  float: left;
+
+  margin-left: 5%;
+
+}
+
+
+
+.avis_legal {
+
+  float: left;
+
+  height: 100%;
+
+  margin-right: 2%;
+
+  width: 30%;
+
+}
+
+
+
+.lifooter {
+
+  list-style: none;
+
+  color: white;
+
+  font-weight: 600;
+
+  font-size: 0.9em;
+
+  line-height: 2em;
+
+  margin-left: 15%;
+
+}
+
+
+
+.afooter {
+
+  color: white;
+
+}
+
+
+
+.newsletter {
+
+  float: left;
+
+  height: 100%;
+
+  margin-right: 2%;
+
+  margin-left: 2%;
+
+  width: 40%;
+
+}
+
+
+
+.txtnewsletter {
+
+  color: white;
+
+  font-weight: 600;
+
+  font-size: 0.9em;
+
+  text-align: center;
+
+  margin-top: 25px;
+
+  height: 5px;
+
+}
+
+
+
+.mail {
+
+  float: left;
+
+  margin-left: 4%;
+
+  margin-top: 3%;
+
+}
+
+
+
+.inscrire {
+
+  float: left;
+
+  margin-left: 3%;
+
+  margin-top: 3%;
+
+}
+
+
+
+.copyright {
+
+  clear: both;
+
+  font-weight: 500;
+
+  font-size: 0.6em;
+
+  color: white;
+
+  margin-left: 4%;
+
+}

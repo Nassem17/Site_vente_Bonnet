@@ -1,0 +1,146 @@
+
+
+
+.header {
+  /* position:static;
+  background-color: black;
+  padding-top:12%; */
+    float: left;
+  background: #181818;
+  height: 150px;
+  width: 100%;
+  margin-bottom: -50%;
+  /* padding-right: 10%; */
+  margin-right: 50%;
+  margin-left: 0%;
+
+}
+
+.navbar {
+  /*float: left;*/
+  width: 50%;
+  
+  margin-top: 15px;
+ 
+
+}
+
+.ulnavbar{
+ margin-bottom: 70px;
+ /*padding-top:50px;*/
+
+}
+
+.linavbar{
+display: inline-block;
+margin-left: 7%;
+font-family: Karla;
+font-weight: 100;
+font-size: 1em;
+color: #33333;
+margin-bottom: 20%;
+
+
+}
+
+a:hover{
+color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
+
+.logo_servdrone{
+ float:left;
+ height:15%;
+ width:15%;
+ margin-left:2%;
+ margin-right: 1%;
+ margin-top: 1%;
+}
+
+.div_panier{
+  float:right;
+  width: 254px;
+  height: 80px;
+  left: 1087px;
+  top: 46px;
+  background: #FFFFFF;
+  border: 1px solid #333333;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  margin-right: 5%;
+  margin-top: 2%;
+}
+
+.img_panier{
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-left: 20%;
+  margin-top: 7%
+}
+
+.img_ux{
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.text_panier{
+  font-family: karla;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: normal;
+  float: left;
+  margin-left: 3%;
+  margin-top: 7%;
+}
+
+.panier{
+  font-family: Karla;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: normal;
+  margin-left: 68%;
+  margin-top: 22%;
+}
+
+
+
+.famille {
+
+  margin-top:-50%;
+  width:140%;
+  padding-bottom:150%;
+}
+
+.bloc_1 {
+
+  margin-top: 0%;
+  width:80%;
+  /* padding-bottom:20%; */
+}
+
+
+
+.famille_deux {
+
+padding-bottom:120%;
+float:left;
+
+}
+
+
+.texte_un {
+font-family: karla;
+color:#181818;
+}

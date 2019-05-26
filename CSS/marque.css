@@ -1,0 +1,495 @@
+.header {
+  /* position:static;
+  background-color: black;
+  padding-top:12%; */
+    float: left;
+  background: #181818;
+  height: 150px;
+  width: 100%;
+  margin-bottom: -50%;
+  /* padding-right: 10%; */
+  margin-right: 50%;
+  margin-left: 0%;
+
+}
+
+.navbar {
+  /*float: left;*/
+  width: 50%;
+
+  margin-top: 15px;
+
+
+}
+
+.ulnavbar{
+ margin-bottom: 70px;
+ /*padding-top:50px;*/
+
+}
+
+.linavbar{
+display: inline-block;
+margin-left: 7%;
+font-family: Karla;
+font-weight: 100;
+font-size: 1em;
+color: #33333;
+margin-bottom: 20%;
+
+
+}
+
+a:hover{
+color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
+
+.logo_servdrone{
+ float:left;
+ height:15%;
+ width:15%;
+ margin-left:2%;
+ margin-right: 1%;
+ margin-top: 1%;
+}
+
+.div_panier{
+  float:right;
+  width: 254px;
+  height: 80px;
+  left: 1087px;
+  top: 46px;
+  background: #FFFFFF;
+  border: 1px solid #333333;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  margin-right: 5%;
+  margin-top: 2%;
+}
+
+.img_panier{
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-left: 20%;
+  margin-top: 7%
+}
+
+.img_ux{
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.text_panier{
+  font-family: karla;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: normal;
+  float: left;
+  margin-left: 3%;
+  margin-top: 7%;
+}
+
+.panier{
+  font-family: Karla;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: normal;
+  margin-left: 68%;
+  margin-top: 22%;
+}
+
+
+
+.famille {
+
+  margin-top:-50%;
+  width:140%;
+  padding-bottom:150%;
+}
+
+.bloc_1 {
+
+  margin-top: 0%;
+  width:80%;
+  /* padding-bottom:20%; */
+}
+
+
+
+.famille_deux {
+
+padding-bottom:120%;
+float:left;
+
+}
+
+
+.texte_un {
+font-family: karla;
+color:#181818;
+}
+
+
+
+
+.titre_la_marque {
+	text-align:center;
+	padding-bottom:250px;
+	font-family:Karla;
+
+
+
+
+}
+.1er_bloc {
+
+   margin-left:50px;
+    margin-right:50px;
+    padding-bottom:70px;
+
+}
+
+
+
+.1er_bloc p  {
+
+    font-family: Karla;
+    padding-left:300px;
+    margin-top: -200px;
+    width:50%;
+}
+.img_automne {
+	/*float :left;
+	margin-top:-100px;
+	width:300px;
+	height:300px;*/
+	width:15%;
+    padding-top:15px;
+    padding-left:15px;
+}
+
+
+.2eme_bloc p {
+	 padding-left:30px;
+    margin-top: -150px;
+    width:50%;
+}
+
+.img_fourure {
+	/*float :left;
+	padding-top:200px;
+	margin-bottom:100px;
+	margin-top:-100px;
+	margin-left:-300px;
+	width:300px;
+	height:300px;*/
+	  	width:15%;
+    padding-top:15px;
+    padding-left:15px;
+}
+
+
+.img_casquette  {
+	/*float :left;
+	padding-top:200px;
+	margin-bottom:100px;
+	margin-top:100px;
+	margin-left:-300px;
+	width:100;
+	height:300px;*/
+	display:block;
+	width:15%;
+    padding-top:15px;
+    padding-left:15px;
+}
+
+.3eme_bloc {
+	padding-left:300px;
+    margin-top: -130px;
+    width:50%;
+}
+
+
+
+
+.2eme_bloc {
+		  margin-left:50px;
+    margin-right:50px;
+    margin-top:25px;
+    padding-top:30px;
+
+}
+.dernier_bloc {
+	text-align:center;
+}
+
+.dernier_paraph {
+	width:600px;
+	margin-left:470px;
+}
+
+
+.footer {
+  float: left;
+  background: #181818;
+  height: 150px;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.reseaux_sociaux {
+  float: left;
+  height: 100%;
+  margin-right: 2%;
+  width: 20%;
+}
+
+.reseaux {
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  font-size: 0.9em;
+  margin-top: 10%;
+}
+
+.img_facebook {
+  float: left;
+  margin-left: 25%;
+}
+
+.img_twitter {
+  float: left;
+  margin-left: 5%;
+}
+
+.img_instagram {
+  float: left;
+  margin-left: 5%;
+}
+
+.avis_legal {
+  float: left;
+  height: 100%;
+  margin-right: 2%;
+  width: 30%;
+}
+
+.lifooter {
+  list-style: none;
+  color: white;
+  font-weight: 600;
+  font-size: 0.9em;
+  line-height: 2em;
+  margin-left: 15%;
+}
+
+.afooter {
+  color: white;
+}
+
+.newsletter {
+  float: left;
+  height: 100%;
+  margin-right: 2%;
+  margin-left: 2%;
+  width: 40%;
+}
+
+.txtnewsletter {
+  color: white;
+  font-weight: 600;
+  font-size: 0.9em;
+  text-align: center;
+  margin-top: 25px;
+  height: 5px;
+}
+
+.mail {
+  float: left;
+  margin-left: 4%;
+  margin-top: 3%;
+}
+
+.inscrire {
+  float: left;
+  margin-left: 3%;
+  margin-top: 3%;
+}
+
+.copyright {
+  clear: both;
+  font-weight: 500;
+  font-size: 0.6em;
+  color: white;
+  margin-left: 4%;
+}
+
+
+.fond1 {
+  float: left;
+  margin-top: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 94%;
+}
+
+.technologie {
+  position: absolute;
+  font-family: karla;
+  font-weight: 400;
+  top: 165px;
+  height: 50px;
+  text-align: center;
+  color: #FF2727;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  width: 100%;
+}
+
+.image1 {
+  float: left;
+  width: 46%;
+  margin-left: 3%;
+  margin-top: 2%;
+  margin-right: 1%;
+}
+
+.innovation {
+  float: left;
+  width: 46%;
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-right: 3%;
+  background: #333333;
+  height: 330px;
+}
+
+.paide {
+  font-size: 1.25em;
+  font-weight: 500;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: karla;
+  padding-top: 25px;
+}
+
+.ptext {
+  font-family: Raleway;
+  font-weight: 300;
+  font-size: 0.9em;
+  line-height: 28px;
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 2%;
+  color: #FFFFFF;
+}
+
+.imgappli {
+  float: left;
+  width: 94%;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 2%;
+}
+
+.blocappli {
+  position: relative;
+  background: rgba(0, 0, 0, 0.6);
+  width: 36%;
+  margin-left: 5%;
+  height: 225px;
+  top: 1100px;
+  border-radius: 10px;
+  color: white;
+}
+
+.pappli {
+  float: left;
+  position: relative;
+  height: 30px;
+  width: 36%;
+  margin-left: 5%;
+  bottom: 300px;
+  color: white;
+}
+
+.textappli {
+  margin-top: 7%;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 0.4em;
+  letter-spacing: 0.11em;
+  font-weight: 500;
+}
+
+.textgratuit {
+  color: #FF2727;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-indent: 7%;
+  font-size: 1.2em;
+}
+
+.ios {
+  margin-left: 6%;
+}
+
+#button {
+
+}
+
+.buttonappli {
+  position: relative;
+  margin-left: 38%;
+  bottom: 15px;
+}
+
+.partenaire {
+  background: #333333;;
+  float: left;
+  width: 94%;
+  text-align: center;
+  margin-left: 3%;
+  margin-right: 3%;
+  height: 300px;
+  color: white;
+  font-family: Karla;
+  font-weight: 400;
+  letter-spacing: 0.11em;
+}
+
+.imgpartenaire {
+  float: left;
+  width: 150px;
+  background: white;
+  margin-left: 6%;
+  margin-right: ;
+  border-radius: 8px;
+}
+
+.blocimg {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  float: left;
+  align-items: center;
+}
+.buttonpartenaire {
+  float: left;
+  width: 13%;
+  margin-top: 2%;
+  margin-left: 43.3%;
+  margin-right: 43.5%;
+}
